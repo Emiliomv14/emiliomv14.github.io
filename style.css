@@ -41,6 +41,13 @@
   left: 322px;
 }
 
+.principal .whitelinks{
+  color: #fffcfc;
+}
+
+.principal .buttonlinks{
+  color:#000000
+}
 .principal .text-wrapper {
   position: absolute;
   width: 323px;

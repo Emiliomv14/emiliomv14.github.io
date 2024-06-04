@@ -82,6 +82,10 @@
   line-height: normal;
 }
 
+.portafolio .whitelinks{
+  color: #ffffff;
+}
+
 .portafolio .button {
   all: unset;
   box-sizing: border-box;
@@ -104,7 +108,7 @@
   position: absolute;
   width: 268px;
   height: 58px;
-  top: 1px;
+  top: 20px;
   left: 0;
   font-family: "Coustard", Helvetica;
   font-weight: 400;

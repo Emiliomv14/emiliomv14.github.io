@@ -1,0 +1,593 @@
+.sobre-m {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sobre-m .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 3071px;
+  position: relative;
+}
+
+.sobre-m .header {
+  position: absolute;
+  width: 1440px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-color: #1a1a1c;
+}
+
+.sobre-m .text-header {
+  position: relative;
+  width: 672px;
+  height: 57px;
+  top: 22px;
+  left: 415px;
+}
+
+.sobre-m .text-wrapper {
+  position: absolute;
+  width: 323px;
+  height: 57px;
+  top: 0;
+  left: 143px;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .text-wrapper-2 {
+  position: absolute;
+  width: 100px;
+  height: 57px;
+  top: 0;
+  left: 0;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .text-wrapper-3 {
+  position: absolute;
+  width: 150px;
+  height: 57px;
+  top: 0;
+  left: 516px;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .footer {
+  position: absolute;
+  width: 1440px;
+  height: 503px;
+  top: 2568px;
+  left: 0;
+  background-color: #000000;
+}
+
+.sobre-m .footer-content {
+  position: absolute;
+  width: 720px;
+  height: 312px;
+  top: 91px;
+  left: 555px;
+}
+
+.sobre-m .footer-contact {
+  position: absolute;
+  width: 316px;
+  height: 167px;
+  top: 9px;
+  left: 0;
+}
+
+.sobre-m .text-wrapper-4 {
+  position: absolute;
+  width: 308px;
+  height: 21px;
+  top: 0;
+  left: 0;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #989898;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .text-wrapper-5 {
+  position: absolute;
+  width: 236px;
+  height: 21px;
+  top: 40px;
+  left: 0;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #989898;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .p {
+  position: absolute;
+  width: 224px;
+  height: 21px;
+  top: 93px;
+  left: 0;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #989898;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .text-wrapper-6 {
+  position: absolute;
+  width: 111px;
+  height: 21px;
+  top: 146px;
+  left: 0;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #989898;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .footer-links {
+  position: absolute;
+  width: 329px;
+  height: 169px;
+  top: 0;
+  left: 395px;
+}
+
+.sobre-m .overlap-group {
+  position: absolute;
+  width: 323px;
+  height: 112px;
+  top: 0;
+  left: 0;
+}
+
+.sobre-m .text-wrapper-7 {
+  position: absolute;
+  width: 323px;
+  height: 57px;
+  top: 55px;
+  left: 0;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .text-wrapper-8 {
+  position: absolute;
+  width: 237px;
+  height: 57px;
+  top: 0;
+  left: 0;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .text-wrapper-9 {
+  position: absolute;
+  width: 237px;
+  height: 57px;
+  top: 112px;
+  left: 0;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .footer-copy {
+  position: absolute;
+  width: 308px;
+  height: 36px;
+  top: 276px;
+  left: 395px;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #989898;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .insta {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 175px;
+  left: 281px;
+}
+
+.sobre-m .twitter {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 175px;
+  left: 324px;
+}
+
+.sobre-m .whats {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 175px;
+  left: 367px;
+}
+
+.sobre-m .face {
+  position: absolute;
+  width: 48px;
+  height: 43px;
+  top: 175px;
+  left: 233px;
+}
+
+.sobre-m .grafico {
+  position: absolute;
+  width: 1448px;
+  height: 776px;
+  top: 1012px;
+  left: -1px;
+}
+
+.sobre-m .overlap {
+  position: relative;
+  width: 1440px;
+  height: 776px;
+  background-color: #e8e8e8;
+}
+
+.sobre-m .titulo-gra {
+  position: absolute;
+  width: 211px;
+  height: 54px;
+  top: 141px;
+  left: 100px;
+  font-family: "Coustard", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .overlap-group-2 {
+  position: absolute;
+  width: 922px;
+  height: 581px;
+  top: 95px;
+  left: 417px;
+}
+
+.sobre-m .titulo-gra-2 {
+  position: absolute;
+  width: 339px;
+  height: 54px;
+  top: 46px;
+  left: 583px;
+  font-family: "Coustard", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .fico {
+  width: 303px;
+  height: 420px;
+  top: 104px;
+  left: 619px;
+  text-align: right;
+  position: absolute;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .grfico-pastel {
+  position: absolute;
+  width: 683px;
+  height: 581px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/white-blue-modern-pie-chart-graph-1-1.png);
+  background-size: 100% 100%;
+}
+
+.sobre-m .white-blue-modern {
+  position: absolute;
+  width: 650px;
+  height: 550px;
+  top: 10px;
+  left: 21px;
+}
+
+.sobre-m .tgr-fico {
+  width: 317px;
+  height: 420px;
+  top: 199px;
+  left: 99px;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .datos-curiosos {
+  position: absolute;
+  width: 1008px;
+  height: 580px;
+  top: 1888px;
+  left: 171px;
+}
+
+.sobre-m .overlap-2 {
+  position: absolute;
+  width: 350px;
+  height: 580px;
+  top: 0;
+  left: 654px;
+}
+
+.sobre-m .titulo-g-datos {
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  font-family: "Coustard", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .t-datos {
+  position: absolute;
+  width: 317px;
+  height: 531px;
+  top: 49px;
+  left: 0;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .foto-sec {
+  width: 500px;
+  height: 500px;
+  top: 40px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.sobre-m .SM {
+  position: absolute;
+  width: 1240px;
+  height: 731px;
+  top: 181px;
+  left: 100px;
+}
+
+.sobre-m .SM-text {
+  position: absolute;
+  width: 628px;
+  height: 491px;
+  top: 19px;
+  left: 0;
+}
+
+.sobre-m .titulo-SM {
+  position: absolute;
+  width: 218px;
+  height: 54px;
+  top: 0;
+  left: 0;
+  font-family: "Coustard", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sobre-m .tsm {
+  position: absolute;
+  width: 619px;
+  height: 83px;
+  top: 408px;
+  left: 0;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .tsm-2 {
+  width: 619px;
+  height: 223px;
+  top: 164px;
+  left: 0;
+  position: absolute;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .tsm-3 {
+  width: 619px;
+  height: 89px;
+  top: 54px;
+  left: 1px;
+  font-size: 22px;
+  position: absolute;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sobre-m .ic-face {
+  left: 0;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 531px;
+  object-fit: cover;
+}
+
+.sobre-m .ic-twitter {
+  left: 59px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 531px;
+  object-fit: cover;
+}
+
+.sobre-m .ic-insta {
+  left: 118px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 531px;
+  object-fit: cover;
+}
+
+.sobre-m .ic-whats {
+  left: 177px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 531px;
+  object-fit: cover;
+}
+
+.sobre-m .foto-principal {
+  width: 530px;
+  height: 530px;
+  top: 0;
+  left: 709px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.sobre-m .img {
+  position: absolute;
+  width: 1240px;
+  height: 100px;
+  top: 631px;
+  left: 0;
+}
+
+.sobre-m .element {
+  position: absolute;
+  width: 173px;
+  height: 108px;
+  top: 0;
+  left: -4px;
+  object-fit: cover;
+}
+
+.sobre-m .element-2 {
+  position: absolute;
+  width: 173px;
+  height: 108px;
+  top: 0;
+  left: 211px;
+  object-fit: cover;
+}
+
+.sobre-m .element-3 {
+  position: absolute;
+  width: 173px;
+  height: 108px;
+  top: 0;
+  left: 426px;
+  object-fit: cover;
+}
+
+.sobre-m .element-4 {
+  position: absolute;
+  width: 173px;
+  height: 108px;
+  top: 0;
+  left: 641px;
+}
+
+.sobre-m .element-5 {
+  position: absolute;
+  width: 173px;
+  height: 108px;
+  top: 0;
+  left: 856px;
+  object-fit: cover;
+}
+
+.sobre-m .element-6 {
+  position: absolute;
+  width: 173px;
+  height: 108px;
+  top: 0;
+  left: 1071px;
+  object-fit: cover;
+}

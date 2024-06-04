@@ -38,6 +38,14 @@
   line-height: normal;
 }
 
+.curriculum .headerlinks{
+  color: #000000;
+}
+
+.curriculum .whitelinks{
+  color: #ffffff;
+}
+
 .curriculum .text-wrapper-2 {
   width: 101px;
   color: #1a1a1c;
@@ -117,7 +125,7 @@
 .curriculum .text {
   width: 907px;
   height: 72px;
-  top: 0;
+  top: 8px;
   position: absolute;
   left: 0;
 }
@@ -165,6 +173,20 @@
   line-height: normal;
   white-space: nowrap;
 }
+.curriculum .text-wrapper-47 {
+  position: absolute;
+  width: 90px;
+  height: 14px;
+  top: -30px;
+  left: 811px;
+  font-family: "Alata", Helvetica;
+  font-weight: 400;
+  color: #9c9a9a;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
 
 .curriculum .overlap-group {
   position: absolute;
@@ -177,7 +199,7 @@
 .curriculum .text-t {
   width: 908px;
   height: 60px;
-  top: 9px;
+  top: 20px;
   position: absolute;
   left: 0;
 }
@@ -200,7 +222,7 @@
 .curriculum .text-wrapper-9 {
   width: 90px;
   height: 14px;
-  top: 0;
+  top: -20px;
   left: 812px;
   color: #9c9a9a;
   white-space: nowrap;
@@ -253,6 +275,7 @@
   position: relative;
   width: 901px;
   height: 53px;
+  top: 10px;
 }
 
 .curriculum .text-wrapper-11 {
@@ -296,7 +319,7 @@
   position: absolute;
   width: 30px;
   height: 30px;
-  top: 3px;
+  top: 15px;
   left: 0;
   object-fit: cover;
 }
@@ -661,7 +684,7 @@
   position: absolute;
   width: 220px;
   height: 37px;
-  top: 466px;
+  top: 470px;
   left: 40px;
   font-family: "Alata", Helvetica;
   font-weight: 400;
@@ -675,7 +698,7 @@
   position: absolute;
   width: 220px;
   height: 37px;
-  top: 399px;
+  top: 405px;
   left: 40px;
   font-family: "Alata", Helvetica;
   font-weight: 400;
@@ -686,7 +709,7 @@
 }
 
 .curriculum .esc-ref {
-  top: 234px;
+  top: 238px;
   position: absolute;
   width: 220px;
   height: 37px;
@@ -700,7 +723,7 @@
 }
 
 .curriculum .esc-ref-2 {
-  top: 167px;
+  top: 170px;
   position: absolute;
   width: 220px;
   height: 37px;
@@ -717,7 +740,7 @@
   position: absolute;
   width: 30px;
   height: 30px;
-  top: 80px;
+  top: 90px;
   left: 44px;
 }
 
@@ -725,7 +748,7 @@
   position: absolute;
   width: 30px;
   height: 30px;
-  top: 311px;
+  top: 320px;
   left: 44px;
   object-fit: cover;
 }
@@ -829,7 +852,7 @@
   position: absolute;
   width: 212px;
   height: 14px;
-  top: 35px;
+  top: 25px;
   left: 0;
   font-family: "Alata", Helvetica;
   font-weight: 400;
@@ -859,7 +882,7 @@
   position: absolute;
   width: 30px;
   height: 30px;
-  top: 457px;
+  top: 465px;
   left: 44px;
 }
 
@@ -932,7 +955,7 @@
   position: absolute;
   width: 30px;
   height: 30px;
-  top: 0;
+  top: 15px;
   left: 0;
   object-fit: cover;
 }
@@ -1123,7 +1146,7 @@
   position: absolute;
   width: 30px;
   height: 30px;
-  top: 5px;
+  top: 15px;
   left: 2px;
   object-fit: cover;
 }
@@ -1219,7 +1242,7 @@
   position: absolute;
   width: 30px;
   height: 30px;
-  top: 0;
+  top: 15px;
   left: 1px;
   object-fit: cover;
 }

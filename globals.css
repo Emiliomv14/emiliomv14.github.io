@@ -25,12 +25,12 @@ a {
 @media (max-widht: 900px)
 {
   .principal{
-    width: 100%;
+    max-width: 80%;
   }
 }
 @media (max-widht: 450px)
 {
   .principal{
-    width: 100%;
+    max-width: 50%;
   }
 }

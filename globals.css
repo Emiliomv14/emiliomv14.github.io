@@ -22,3 +22,15 @@ a {
   src: url("https://anima-uploads.s3.amazonaws.com/projects/612cee6e7d4dd4a7d49e33de/fonts/abhayalibre-extrabold.ttf")
     format("truetype");
 }
+@media (max-widht: 900px)
+{
+  .principal{
+    width: 100%;
+  }
+}
+@media (max-widht: 450px)
+{
+  .principal{
+    width: 100%;
+  }
+}

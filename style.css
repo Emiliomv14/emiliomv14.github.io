@@ -292,6 +292,7 @@
   left: 0;
   position: absolute;
   object-fit: cover;
+  border-radius: 10%;
 }
 
 .principal .texto-portafolio {
